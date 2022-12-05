@@ -1,0 +1,33 @@
+header > h1{ background-color: darkcyan; color: white; font-family: "Roboto";
+
+}
+body {
+    margin: 20px;
+    font-family: Arial, Helvetica, sans-serif
+}
+body > footer {
+    background-color: darkcyan;
+}
+body > footer > p { 
+    padding: 16px;
+    color: white;
+    text-align: center;
+}
+
+nav > ul >li a { list-style: none; color: hotpink; font-weight: bold; text-transform: uppercase;
+}
+
+body > main > article { width: 95%; margin: 20px;
+
+}
+
+.like-button:hover { background-color: hotpink; border: 1px solid darkcyan; color: white;
+}
+.share-button:hover { background-color: hotpink; border: 1px solid darkcyan; color: white;
+}
+
+
+/* #logo {
+    margin: 0;
+    padding: 10px; 
+} */
